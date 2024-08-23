@@ -1,0 +1,14 @@
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\obj\Debug\net8.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfoInputs.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\obj\Debug\net8.0\Fundamentals.AssemblyInfo.cs
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\obj\Debug\net8.0\Fundamentals.csproj.CoreCompileInputs.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\bin\Debug\net8.0\Fundamentals.exe
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\bin\Debug\net8.0\Fundamentals.deps.json
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\bin\Debug\net8.0\Fundamentals.runtimeconfig.json
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\bin\Debug\net8.0\Fundamentals.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\bin\Debug\net8.0\Fundamentals.pdb
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\obj\Debug\net8.0\Fundamentals.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\obj\Debug\net8.0\refint\Fundamentals.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\obj\Debug\net8.0\Fundamentals.pdb
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\obj\Debug\net8.0\Fundamentals.genruntimeconfig.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Fundamentals\obj\Debug\net8.0\ref\Fundamentals.dll

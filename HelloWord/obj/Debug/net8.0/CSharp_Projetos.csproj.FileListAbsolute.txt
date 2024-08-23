@@ -1,0 +1,14 @@
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\obj\Debug\net8.0\CSharp_Projetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\obj\Debug\net8.0\CSharp_Projetos.AssemblyInfoInputs.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\obj\Debug\net8.0\CSharp_Projetos.AssemblyInfo.cs
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\obj\Debug\net8.0\CSharp_Projetos.csproj.CoreCompileInputs.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\bin\Debug\net8.0\CSharp_Projetos.exe
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\bin\Debug\net8.0\CSharp_Projetos.deps.json
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\bin\Debug\net8.0\CSharp_Projetos.runtimeconfig.json
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\bin\Debug\net8.0\CSharp_Projetos.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\bin\Debug\net8.0\CSharp_Projetos.pdb
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\obj\Debug\net8.0\CSharp_Projetos.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\obj\Debug\net8.0\refint\CSharp_Projetos.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\obj\Debug\net8.0\CSharp_Projetos.pdb
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\obj\Debug\net8.0\CSharp_Projetos.genruntimeconfig.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\HelloWord\obj\Debug\net8.0\ref\CSharp_Projetos.dll

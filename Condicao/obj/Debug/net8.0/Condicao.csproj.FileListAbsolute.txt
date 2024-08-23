@@ -1,0 +1,14 @@
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\bin\Debug\net8.0\Condicao.exe
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\bin\Debug\net8.0\Condicao.deps.json
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\bin\Debug\net8.0\Condicao.runtimeconfig.json
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\bin\Debug\net8.0\Condicao.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\bin\Debug\net8.0\Condicao.pdb
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\obj\Debug\net8.0\Condicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\obj\Debug\net8.0\Condicao.AssemblyInfoInputs.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\obj\Debug\net8.0\Condicao.AssemblyInfo.cs
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\obj\Debug\net8.0\Condicao.csproj.CoreCompileInputs.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\obj\Debug\net8.0\Condicao.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\obj\Debug\net8.0\refint\Condicao.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\obj\Debug\net8.0\Condicao.pdb
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\obj\Debug\net8.0\Condicao.genruntimeconfig.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\Condicao\obj\Debug\net8.0\ref\Condicao.dll
