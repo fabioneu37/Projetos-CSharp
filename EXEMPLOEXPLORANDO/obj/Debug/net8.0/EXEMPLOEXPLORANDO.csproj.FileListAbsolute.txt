@@ -1,0 +1,15 @@
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\bin\Debug\net8.0\EXEMPLOEXPLORANDO.exe
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\bin\Debug\net8.0\EXEMPLOEXPLORANDO.deps.json
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\bin\Debug\net8.0\EXEMPLOEXPLORANDO.runtimeconfig.json
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\bin\Debug\net8.0\EXEMPLOEXPLORANDO.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\bin\Debug\net8.0\EXEMPLOEXPLORANDO.pdb
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\obj\Debug\net8.0\EXEMPLOEXPLORANDO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\obj\Debug\net8.0\EXEMPLOEXPLORANDO.AssemblyInfoInputs.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\obj\Debug\net8.0\EXEMPLOEXPLORANDO.AssemblyInfo.cs
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\obj\Debug\net8.0\EXEMPLOEXPLORANDO.csproj.CoreCompileInputs.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\obj\Debug\net8.0\EXEMPLOEXPLORANDO.sourcelink.json
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\obj\Debug\net8.0\EXEMPLOEXPLORANDO.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\obj\Debug\net8.0\refint\EXEMPLOEXPLORANDO.dll
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\obj\Debug\net8.0\EXEMPLOEXPLORANDO.pdb
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\obj\Debug\net8.0\EXEMPLOEXPLORANDO.genruntimeconfig.cache
+C:\Users\fabio.souza\Documents\CSharp_Projetos\EXEMPLOEXPLORANDO\obj\Debug\net8.0\ref\EXEMPLOEXPLORANDO.dll
